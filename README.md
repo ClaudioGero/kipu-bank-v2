@@ -149,4 +149,4 @@
 ---
 
 ## Deployed Contracts
-- **KipuBankV2 (latest):** `0xD2E4751D54E92aBba6C0106F35c00887470E695E`
+- **KipuBankV2 (latest):** `0x5b718aa6cA0c8F94D5275269A5d38C049B9b1c4D`
